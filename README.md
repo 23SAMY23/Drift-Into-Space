@@ -7,10 +7,10 @@
     <img src="https://github.com/23SAMY23/Drift-Into-Space/blob/main/Drift%20Into%20Space/Assets/animation/drift%20into%20space.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Smart Kid</h3>
+  <h3 align="center">Drift Into Space</h3>
 
   <p align="center">
-    A Augmented Reality Application for Kids 
+    A Computer Base Game
     <br />
   </p>
 </p>
@@ -43,14 +43,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Project is on Augmented Reality In this we Teach Kids Alphabet and Numbers in different Language via Imaage recongination  
+This Project is on Computer Game In this we Jump Throw the Space to escape our eniemies and Ship 
 
 * Sound
 * Interactive
-* Colourful
-* Different Languages
+* 3D World
+* Spac/Techno
  
-This is a AR/VR course project for TECHNISCHE UNIVERSITÄT ILMENAU
+This is a PWC-Game Computer course project for TECHNISCHE UNIVERSITÄT ILMENAU
 
 
 ### Built With
