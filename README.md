@@ -52,7 +52,7 @@ This Project is on Computer Game In this we Jump Throw the Space to escape our e
 * Sound
 * Interactive
 * 3D World
-* Spac/Techno
+* Space/Techno
  
 This is a PWC-Game Computer course project for TECHNISCHE UNIVERSITÄT ILMENAU
 
@@ -63,32 +63,23 @@ This section should list any major frameworks that you built your project using.
 * [Unity3D 2019](https://unity3d.com/get-unity/download)
 * [VisualStudio 2019](https://visualstudio.microsoft.com/downloads/)
 
-### Project Settings
-This Section shows the projectseeting and build setting of both Virtual Reality and Augmented Reality Project make sure when you downlaod it it is in the same as following Screen Shot.
-Virtual Reality Screenshot
-
-
-Augmented Reality Screenshot
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* [Smart Kid](https://github.com/23SAMY23/Smart-Kid/tree/main/SmartKid)
-* [Final Apk](https://github.com/23SAMY23/Smart-Kid/tree/main/Final%20Apk)
+* [Drift Into Space](https://github.com/23SAMY23/Drift-Into-Space/tree/main/Drift%20Into%20Space)
+* [Final Game(https://github.com/23SAMY23/Drift-Into-Space/tree/main/Final%20Game)
 
 ### Requirments
 
-For Augmented Reality
-* Arcore Supported Mobile(e.g Note 10(Tested),S10 S20)
-This project can also work on Arkit as we used AR foundation to make our project [For converting to ios](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html)
+For Computer Spporting DirectX
+* KeyBoard 
 
 ### Installation
 
-For Augmented Reality
+For Computer Base Download
 
-1. Download Ar Andriod Build
-2. Make sure your Mobile support [Google play services ARcore ](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US)
-3. Give camera and microphone permission to the app.
-4. Click on the app and run.
+1. Download Game
+4. Click on the .exe and run.
+5. https://drive.google.com/drive/folders/1N6dvS54sCTbJxFal8AZdR2FfTSNbHY3v
 
