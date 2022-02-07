@@ -80,5 +80,5 @@ For Computer Spporting DirectX
 For Computer Base Download
 
 1. [Download Game](https://drive.google.com/drive/folders/1N6dvS54sCTbJxFal8AZdR2FfTSNbHY3v)
-2. Click on the .exe and run.
+2. Click on the .exe and run
 
