@@ -41,8 +41,9 @@
   </ol>
 </details>
 
-
-
+<!-- Promo -->
+## Promo
+[![Watch the video]()](https://www.youtube.com/watch?v=Sxz9zCrI_Vg&ab_channel=SameerKazmi)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
