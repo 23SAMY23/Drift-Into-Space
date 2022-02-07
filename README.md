@@ -68,7 +68,7 @@ This section should list any major frameworks that you built your project using.
 ## Getting Started
 
 * [Drift Into Space](https://github.com/23SAMY23/Drift-Into-Space/tree/main/Drift%20Into%20Space)
-* [Final Game(https://github.com/23SAMY23/Drift-Into-Space/tree/main/Final%20Game)
+* [Final Game](https://github.com/23SAMY23/Drift-Into-Space/tree/main/Final%20Game)
 
 ### Requirments
 
@@ -79,7 +79,6 @@ For Computer Spporting DirectX
 
 For Computer Base Download
 
-1. Download Game
-4. Click on the .exe and run.
-5. https://drive.google.com/drive/folders/1N6dvS54sCTbJxFal8AZdR2FfTSNbHY3v
+1. [Download Game](https://drive.google.com/drive/folders/1N6dvS54sCTbJxFal8AZdR2FfTSNbHY3v)
+2. Click on the .exe and run.
 
